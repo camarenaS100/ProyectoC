@@ -1,0 +1,41 @@
+5
+---
+Doritos
+Frituras
+0001               
+20
+10
+12
+12 Agosto 2022
+---
+Fritos
+Frituras
+0002
+15
+10
+12
+12 Agosto 2022
+---
+Takis
+Frituras
+0003
+8
+10
+12
+12 Agosto 2022
+---
+Chetos
+Frituras
+0004
+2
+10
+12
+12 Agosto 2022
+---
+Pringle
+Frituras
+0005
+14
+10
+12
+12 Agosto 2022
